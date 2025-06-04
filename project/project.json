@@ -1,0 +1,64 @@
+[
+    {
+        "title": "PEMBUATAN APLIKASI MEDIA PEMBELAJARAN EKOSISTEM ALAM DAN HEWAN DARAT",
+        "tech": "Unity Hub",
+        "image": "assets/img/unity.png",
+        "desc":"Hasil Project ",
+        "links": {
+            "demo": "https://drive.google.com/drive/folders/1wJn9DlcRoLlF9-iJklAqRnabY3fBv4bu?usp=drive_link",
+            "code": ""
+        }
+    },
+
+     {
+        "title": "PEMBUATAN APLIKASI MEDIA PEMBELAJARAN TATA SURYA",
+        "tech": "Unity Hub",
+        "image": "assets/img/unity.png",
+        "desc":"Hasil Project ",
+        "links": {
+            "demo": "https://drive.google.com/drive/folders/12JA9GjSVZx-lnGxxacCTVele3mHVeF3Y?usp=drive_link",
+            "code": ""
+        }
+    },
+    {
+        "title": "NewsDigital",
+        "tech": "HTML&CSS, JavaScript",
+        "image": "./assets/img/project/news.jpg",
+        "desc":"This is my for course assignments.",
+        "links": {
+            "demo": "https://rendiwen.github.io/rendiii/",
+            "code": "https://github.com/rendiwen/rendiii.git"
+        }
+    },
+    {
+        "title": "Website Profile",
+        "tech": "HTML&CSS, JavaScript ",
+        "image": "./assets/img/project/profileunper.jpg",
+        "desc":"This is my for website profile.",
+        "links": {
+            "demo": "https://rendiwen.github.io/rendin/",
+            "code": "https://github.com/rendiwen/rendin.git"
+        }
+    },
+     {
+        "title": "Website Profile",
+        "tech": "HTML&CSS, JavaScript ",
+        "image": "./assets/img/project/profilelagiunper.jpg",
+        "desc":"This is my for website profile.",
+        "links": {
+            "demo": "https://rendiwen.github.io/kuren/",
+            "code": "https://github.com/rendiwen/kuren.git"
+        }
+    },
+     {
+        "title": "Website Profile",
+        "tech": "HTML&CSS, JavaScript ",
+        "image": "./assets/img/project/profilerendi.jpg",
+        "desc":"This is my for website profile.",
+        "links": {
+            "demo": "https://rendiwen.github.io/rendinaditia,porto/",
+            "code": "https://github.com/rendiwen/rendinaditia,porto.git"
+        }
+    }
+    
+]
